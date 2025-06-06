@@ -1,1 +1,1 @@
-# centivoTest
+This project includes a simple node JS code for extracting infromation using a users id. The id is an defaullt mongoDb id of default type: ObjectId. To run this project, take a local pull and execute npm run dev.
